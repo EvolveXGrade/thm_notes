@@ -53,9 +53,13 @@ Identifies additional attack surfaces not visible through normal browsing.
 - dirb <url>
 ```
 
+---
+
 ## Disclaimer
 
 All content in this repository is for educational purposes only and based on legal, controlled environments such as the TryHackMe platform. Do not use this knowledge for unauthorized testing.
+
+---
 
 ## License
 
