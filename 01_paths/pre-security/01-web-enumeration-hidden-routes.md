@@ -42,7 +42,7 @@ Hidden route discovery is usually performed early during web assessment.
 
 ## Example Tool
 
-One common tool used for this purpose is `dirb`, Dirbuster.
+One common tool used for this purpose is [dirb](../../03_tools/dirb.md).
 
 ```bash
 dirb http://target
