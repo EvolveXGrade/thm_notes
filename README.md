@@ -32,7 +32,7 @@ The focus is always on *why* something matters and *when* to use it, not just *w
 
 ---
 
-## 📌 Notes and Best Practices
+## Notes and Best Practices
 
 - Avoid copying walkthroughs directly — focus on understanding.
 - Organize content based on **idea + pattern + when to apply**, not just notes by date.
