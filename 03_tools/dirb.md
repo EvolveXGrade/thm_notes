@@ -1,6 +1,7 @@
-# dirb or dirbuster
+# Dirbuster or dirb
 
 Tags: #tool #web #enumeration #discovery #attack-surface #offensive #dirb #dirbuster
+Related concept: [Web Enumeration – Hidden Routes](../01_paths/pre-security/01-web-enumeration-hidden-routes.md)
 
 ---
 
